@@ -12,3 +12,5 @@ This script is written to calculate eyeglass prescription based on different val
 </ul>
 <h2>Running the tests</h2>
 Tested on Chrome and Firefox Browser
+<h2>Developed By</h2>
+Ethane Web Technologies Pvt. Ltd. ( https://www.ethanetechnologies.com )
